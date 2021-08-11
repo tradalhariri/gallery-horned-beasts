@@ -1,7 +1,7 @@
 import React from "react"
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Modal,Button,Image} from "react-bootstrap";
+import {Modal,Button,Image, Card} from "react-bootstrap";
 
 class SelectedBeast extends React.Component{
     constructor(props){
@@ -17,7 +17,7 @@ class SelectedBeast extends React.Component{
             </Modal.Header>
             <Modal.Body>
         
-                <Image  src={this.props.element.image_url}  title={this.props.element.title} alt={this.props.element.title} fluid />
+                <Card.Img  style={{ height: "300px" }} src={this.props.element.image_url}  title={this.props.element.title} alt={this.props.element.title}  />
                 <p>{this.props.element.description}</p>
             
             </Modal.Body>

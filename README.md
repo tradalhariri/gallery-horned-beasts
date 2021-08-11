@@ -3,7 +3,9 @@
 This website shows information about horned animals.
 
 
+
 ### features from lab 2
+
 
 * **Number and name of feature :**
    1. Feature #1
@@ -20,7 +22,9 @@ about 20 minutes.
 
 * **Actual time needed to complete :**
 about 30 minutes.
+
 -------
+
 * **Number and name of feature :**
    1. Feature #2
    2. Allow users to vote for their favorite beast
@@ -37,7 +41,9 @@ about 45 minutes.
 * **Actual time needed to complete :**
 about 35 minutes.
 
+
 ----
+
 * **Number and name of feature :**
    1. Feature #3 
    2. Bootstrap
@@ -75,6 +81,7 @@ about 6 hours.
 
 ### features from lab 4
 
+
 * **Number and name of feature :**
    1. Filter by Numbers of Horns
    2. Feature #1
@@ -90,3 +97,4 @@ about 1 hour.
 
 * **Actual time needed to complete :**
 about 30 minutes.
+

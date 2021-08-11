@@ -16,16 +16,10 @@ class HornedBeast extends React.Component {
         });
     }
 
-    handleClose = () => {
-        this.props.handleShow();
-    };
-    handleShow = () =>{
-        this.props.handleClose();
-    }
 
     selected = () => {
-        this.handleShow();
         this.props.whichSelected(this.props.title);
+        this.props.handleShow();
     }
 
     render() {
