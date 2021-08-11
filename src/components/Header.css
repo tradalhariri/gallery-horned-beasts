@@ -3,6 +3,12 @@
     padding: 10px;
     margin-bottom: 30px;
     cursor: grab;
-    box-shadow: 0 5px 5px black;
+    box-shadow: 0 5px 5px #204b02;
     user-select: none;
+}
+
+.header h1{
+    
+font-size: 50px;
+font-weight: bold;
 }

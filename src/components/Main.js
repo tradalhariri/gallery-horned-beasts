@@ -11,10 +11,6 @@ class Main extends React.Component {
     whichSelected = (title)=>{
        this.props.whichSelected(title);
     }
-
-    handleClose = () => {
-        this.props.handleClose();
-    }
    
     handleShow = () => {
         this.props.handleShow();
@@ -23,9 +19,9 @@ class Main extends React.Component {
 
     render() {
         return (
-            <main >
-               <Row  xs={1} sm={2} md={3} lg={4} className="g-4">
-               {this.props.data.map((beast) => <HornedBeast  key={beast.title} title={beast.title} imageUrl={beast.image_url} description={beast.description} whichSelected ={this.whichSelected} handleClose = {this.handleClose} handleShow = {this.handleShow} />)}
+            <main>
+               <Row style={{margin:"auto 15px"}} xs={1} sm={2} md={3} lg={4} className="g-4">
+               {this.props.data.map((beast) => <HornedBeast  key={beast.title} title={beast.title} imageUrl={beast.image_url} description={beast.description} whichSelected ={this.whichSelected}  handleShow = {this.handleShow} />)}
                </Row>
             </main>
         );

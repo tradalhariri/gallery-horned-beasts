@@ -6,23 +6,22 @@ class Header extends React.Component {
         super();
        
         this.state={
-            style:{backgroundColor:"gray",color:"black",padding:"15px"},
-            theme:'gray',
+            style:{backgroundColor:"#6D9154",color:"black",padding:"15px"},
+            theme:'green',
         }
     }
 
     changeStyle = ()=>{
-        if(this.state.theme === 'gray'){
+        if(this.state.theme === 'green'){
             this.setState({
            
-                style:{backgroundColor:"#ddd",color:"white"},
-                theme:'darkGray',
+                style:{backgroundColor:"#204b02",color:"white"},
+                theme:'darkGreen',
                })
         }else{
             this.setState({
-           
-                style:{backgroundColor:"gray",color:"black" ,padding:"15px"},
-                theme:'gray',
+                style:{backgroundColor:"#6D9154",color:"black",padding:"15px"},
+                theme:'green',
                })
         }
    
