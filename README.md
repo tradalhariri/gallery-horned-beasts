@@ -21,7 +21,6 @@ about 20 minutes.
 * **Actual time needed to complete :**
 about 30 minutes.
 
-
 * **Number and name of feature :**
    1. Feature #2
    2. Allow users to vote for their favorite beast
@@ -54,3 +53,19 @@ about 10 minutes.
 
 * **Actual time needed to complete :**
 about 10 minutes.
+
+
+
+
+* **Number and name of feature :**
+   1. Filter by Numbers of Horns
+   2. Feature #1
+   
+* **Estimate of time needed to complete :**
+about 1 hour.
+
+* **Start time :** 
+1 PM
+
+* **Finish time :**
+1:30 PM.

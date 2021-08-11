@@ -3,6 +3,12 @@
     padding: 10px;
     margin-top: 70px;
     cursor: grab;
-    box-shadow: 0 -5px 5px black;
+    box-shadow: 0 -5px 5px #204b02;
     user-select: none;
+}
+
+.footer p{
+    font-size: 23px;
+    font-style: italic;
+    font-weight: bold;
 }
