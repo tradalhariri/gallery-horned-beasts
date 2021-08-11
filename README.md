@@ -3,7 +3,9 @@
 This website shows information about horned animals.
 
 
-[//]: # (lab  02 )
+
+### features from lab 2
+
 
 * **Number and name of feature :**
    1. Feature #1
@@ -20,6 +22,8 @@ about 20 minutes.
 
 * **Actual time needed to complete :**
 about 30 minutes.
+
+-------
 
 * **Number and name of feature :**
    1. Feature #2
@@ -38,6 +42,8 @@ about 45 minutes.
 about 35 minutes.
 
 
+----
+
 * **Number and name of feature :**
    1. Feature #3 
    2. Bootstrap
@@ -55,6 +61,25 @@ about 10 minutes.
 about 10 minutes.
 
 
+### features from lab 3
+
+* **Number and name of feature :**
+   1. Display a Modal
+   2. Feature #1
+   
+* **Estimate of time needed to complete :**
+about 4 hours.
+
+* **Start time :** 
+2 PM
+
+* **Finish time :**
+8 PM.
+
+* **Actual time needed to complete :**
+about 6 hours.
+
+### features from lab 4
 
 
 * **Number and name of feature :**
@@ -69,3 +94,7 @@ about 1 hour.
 
 * **Finish time :**
 1:30 PM.
+
+* **Actual time needed to complete :**
+about 30 minutes.
+
